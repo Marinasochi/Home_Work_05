@@ -49,7 +49,7 @@ emptyString(1);
 Console.WriteLine("  Задайте одномерный массив, заполнен-\r\nный случайными числами. Найдите сумму\r\nэлементов, стоящих на нечётных позициях.");
 Console.WriteLine(text);
 PrintArray(collect);
-Console.WriteLine($"Сумма элеметов на четных позициях = {sum}");
+Console.WriteLine($"Сумма элеметов на нечетных позициях = {sum}");
 emptyString(1);
 Console.WriteLine(text);
 emptyString(2);
